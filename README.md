@@ -1,76 +1,68 @@
 # David James Haston
 
-Senior Full Stack Engineer with **10+ years of experience** designing, building, and scaling production-grade web applications across startups and enterprise environments.  
-I specialize in **frontend architecture**, **full-stack systems**, and **high-performance user experiences**, with a strong focus on **React, TypeScript, Node.js, and cloud-native platforms**.
+**Senior Full-Stack Engineer** | **10+ Years of Experience**  
+Tallahassee, FL, United States | [david.haston.tech@gmail.com](mailto:david.haston.tech@gmail.com)
 
-I’ve led and owned critical frontend and full-stack systems end-to-end — from architecture and design systems to performance optimization, CI/CD, and cross-team collaboration.
+---
+
+## About Me
+
+I am a **Senior Full-Stack Engineer** with **10+ years of experience** designing, architecting, and optimizing web applications in high-performance environments. I specialize in **React**, **TypeScript**, **Node.js**, and cloud technologies, with a focus on **scalability**, **performance**, and **maintainability**. I have led cross-functional teams to deliver innovative solutions that drive measurable improvements in both user experience and operational efficiency. I also take pride in mentoring engineers and building collaborative, high-impact teams.
 
 ---
 
 ## Core Expertise
 
-**Frontend Engineering**
-- React, TypeScript, Next.js
-- Component architecture, design systems, state management
-- Performance optimization (render paths, memoization, code splitting)
-- Accessibility (WCAG), responsive & cross-browser design
+**Frontend Engineering**  
+- React, TypeScript, Next.js, AngularJS  
+- UI Component Design & Architecture  
+- Performance Optimization (code splitting, lazy loading, memoization)  
+- Responsive & Accessible Design (WCAG, cross-browser compatibility)  
 
-**Backend & APIs**
-- Node.js, Express, REST & GraphQL APIs
-- Authentication, data modeling, service integration
-- Real-time systems (WebSockets, streaming data)
+**Backend Development**  
+- Node.js, Express, REST & GraphQL APIs  
+- Microservices & Cloud Platforms (AWS, GCP, Azure)  
+- Real-time Data & WebSockets  
+- CI/CD pipelines, automated testing, performance profiling  
 
-**Cloud & Delivery**
-- AWS, GCP, Firebase
-- CI/CD pipelines, automated testing, release workflows
-- Production monitoring and performance profiling
+**Cloud & DevOps**  
+- AWS, GCP, Docker, Kubernetes  
+- Infrastructure as Code (Terraform, CloudFormation)  
+- Continuous Delivery, Release Management, and Automation  
 
-**Engineering Leadership**
-- Frontend architecture ownership
-- Code reviews and technical standards
-- Mentoring and supporting senior & junior engineers
-- Close collaboration with product, design, and ML teams
-
----
-
-## Professional Focus
-
-- Building **scalable, maintainable UI platforms**
-- Translating complex requirements into clean, intuitive user experiences
-- Working on **real-time and data-driven applications**
-- Shipping high-quality software in fast-moving environments
+**Leadership & Mentorship**  
+- Led cross-functional teams, improving technical roadmaps and aligning product vision  
+- Mentored 10+ engineers, improving team productivity and engineering practices  
+- Built high-performance teams focused on clean, maintainable code and scalable solutions  
 
 ---
 
-## Selected Technologies
+## Technical Highlights
 
-**Languages & Frameworks**  
-TypeScript, JavaScript, React, Next.js, Node.js
-
-**State & Data**  
-Redux Toolkit, React Query, GraphQL, REST
-
-**UI & Styling**  
-Tailwind CSS, CSS3, HTML5, Design Systems
-
-**Testing & Quality**  
-Jest, React Testing Library, Cypress
-
-**Tooling**  
-Git, GitHub Actions, Vite, Webpack, CI/CD
+- **Summit Technology Services**: Architected a platform with 100K+ users, reducing load time by 28% and re-renders by 35%. Spearheaded cloud services integration on AWS, increasing uptime to 99%.
+- **All IT Solutions**: Led frontend modernization from legacy systems to React, boosting performance by 30%. Optimized backend services for faster API responses, improving request handling by 40%.
+- **Phase Consulting Partners**: Developed 30+ reusable UI components, improving feature delivery by 30%. Refactored legacy AngularJS applications, increasing maintainability and scalability.
 
 ---
 
-## GitHub Activity
+## Skills & Tools
 
-I use GitHub to:
-- Maintain production-ready full-stack projects
-- Prototype and refine frontend architecture patterns
-- Explore performance optimization and developer tooling
-- Contribute to long-term, maintainable codebases
+**Frontend**:  
+React, TypeScript, Next.js, Tailwind CSS, AngularJS, HTML5, CSS3
+
+**Backend**:  
+Node.js, Express.js, REST/GraphQL APIs, Firebase, AWS, GCP, Azure
+
+**State Management**:  
+Redux, Redux Toolkit, React Query, WebSockets
+
+**Cloud & DevOps**:  
+Docker, Kubernetes, Terraform, CI/CD Pipelines, Google Cloud Platform, AWS
+
+**Testing**:  
+Jest, React Testing Library, Cypress, performance profiling
+
+**Version Control & CI/CD**:  
+Git, GitHub Actions, Webpack, Vite, Jenkins
 
 ---
-
-📫 **Contact**  
-GitHub: https://github.com/david-haston-tech  
-Email: david.haston@gmail.com
