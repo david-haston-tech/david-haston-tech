@@ -1,4 +1,4 @@
-# David James Haston
+# David Haston
 
 **Senior Full-Stack Engineer** | **10+ Years of Experience**  
 Tallahassee, FL, United States | [david.haston.tech@gmail.com](mailto:david.haston.tech@gmail.com)
